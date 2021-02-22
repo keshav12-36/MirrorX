@@ -122,6 +122,8 @@ log - Bot Log [owner only]
 # How to deploy?
 Deploying is pretty much straight forward and is divided into several steps as follows:
 ## Installing requirements
+Sama heroku :
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CrysTalesiaS/MirrorX)
 
 
 - Clone this repo:
