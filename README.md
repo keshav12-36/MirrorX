@@ -6,6 +6,9 @@
 4. Update The Aria.sh To Support Multiple Trackers List. Currently Two
 5. Added Custom User Agent ,Peer Agent..Transmission For Now.
 
+Heroku :
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CrysTalesiaS/MirrorX)
+
 # Important - About Mega Downloads.
 1. There Is No Max Size Limit For Mega Folder Or File
 2. If A Folder Fails To Download , Import It Into Your Mega Account And Create A Fresh Sharing Link. Weird But Works.
