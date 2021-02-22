@@ -20,17 +20,17 @@
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
         "value": "",
-        "required": true
+        "required": false
       },
       "GDRIVE_FOLDER_ID": {
         "description": "This is the folder ID of the Google Drive Folder to which you want to upload all the mirrors.",
         "value": "",
-        "required": true
+        "required": false
       },
       "OWNER_ID": {
         "description": "The Telegram user ID (not username) of the owner of the bot.",
         "value": "",
-        "required": true
+        "required": false
       },  
       "DOWNLOAD_DIR": {
         "description": "The path to the local folder where the downloads should be downloaded to.",
@@ -55,12 +55,12 @@
       "TELEGRAM_API": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org DO NOT put this in quotes.",
         "value": "",
-        "required": true
+        "required": false
       },
       "TELEGRAM_HASH": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org.",
         "value": "",
-        "required": true
+        "required": false
       },
       "TELEGRAPH_TOKEN": {
         "description": "Open this link to generate telegraph token ==> https://telegraph-token.sonywegas.repl.run",
